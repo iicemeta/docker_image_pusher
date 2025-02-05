@@ -6,4 +6,3 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 jlesage/firefox
-hoshinorei/l4d2server:edge

@@ -10,3 +10,4 @@ sigoden/dufs
 hwdsl2/ipsec-vpn-server
 ihmily/streamcap
 koishijs/koishi
+24workers/l4d2-docker:latest

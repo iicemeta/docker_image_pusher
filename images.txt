@@ -5,9 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-jlesage/firefox
-sigoden/dufs
-hwdsl2/ipsec-vpn-server
-ihmily/streamcap
-koishijs/koishi
-24workers/l4d2-docker:latest
+kasmweb/chrome:1.19.0
